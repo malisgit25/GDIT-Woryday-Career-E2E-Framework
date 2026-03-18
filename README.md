@@ -1,4 +1,4 @@
-Note: To opent the report invoke this URL: https://malisgit25.github.io/gdit-workday-e2e-selenium-framework/index.html 
+Note: To opent the report invoke this URL: https://malisgit25.github.io/gdit-workday-e2e-selenium-framework/reports/index.html  
 
 # GDIT-Woryday-Career-E2E-Framework
 
